@@ -1,0 +1,30 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'iolaoye-dev.io'
+theme = 'PaperMod'
+
+
+
+[[menu.main]]
+identifier = "categories"
+name = "categories"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "resume"
+name = "resume"
+url = "/resume/"
+weight = 20
+
+[[menu.main]]
+identifier = "home"
+name = "home"
+url = "/"
+weight = 30
+
+
+[params.homeInfoParams]
+
+Title = "hello there"
+Content = "Can be info about anything!"
