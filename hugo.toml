@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://immanuelolaoye.com'
 languageCode = 'en-us'
 title = 'iolaoye-dev.io'
 theme = 'PaperMod'
